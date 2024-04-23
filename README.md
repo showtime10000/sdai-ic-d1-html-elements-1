@@ -1,3 +1,4 @@
+!["final rendering for demo"](assets/images/html_elements_lab1.jpg)
 # HTML Elements and Tags Lab 1
 
 ## Description 📄
