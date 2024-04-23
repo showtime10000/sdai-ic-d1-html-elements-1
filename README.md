@@ -1,5 +1,5 @@
 # HTML Elements and Tags Lab 1
----
+
 ## Description 📄
 This lab introduces you to the fundamental building blocks of HTML webpages. You'll experiment with creating a simple webpage structure and observe how basic code translates into visual elements on a web page.
 
@@ -34,8 +34,11 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
  
 🎊 **Fantastic work! You just finished your first ever HTML coding lab.** 🎊
 
+---
+
 ### Solution codebase 👀
 🛑 **Only use this as a reference** 🛑
+
 💾 **Not something to copy and paste** 💾
 
 **Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d1-ctc-lab1/blob/solution/index.html) (link not shown).
