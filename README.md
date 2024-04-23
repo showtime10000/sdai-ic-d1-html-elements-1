@@ -17,22 +17,15 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-1. [ ] Navigate to the `index.html` file. 
-2. [ ] In line 1, type an exclamation point, wait to see the prompt, then hit `enter`.
-3. [ ] Inside the body tag, put the appropriate header tag for a main header with the copy: 
+1. [x] Navigate to the `index.html` file. 
+2. [x] In line 1, type an exclamation point, wait to see the prompt, then hit `enter`.
+3. [x] Inside the body tag, put the appropriate header tag for a main header with the copy: 
    `Hello World!`
-4. [ ] Under that, put a paragraph tag under that and copy and paste:
+4. [x] Under that, put a paragraph tag under that and copy and paste:
     `World, this is my first time coding!`
-5. [ ] Write another paragraph tag under the previous and copy and pastethis copy:
+5. [x] Write another paragraph tag under the previous and copy and pastethis copy:
    `I'm ready to learn a lot!`
 
 🎊 **Fantastic work! You just finished your first ever HTML coding lab.** 🎊
 
 ---
-
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
-
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-ic-d1-ctc-lab1/blob/solution/index.html) (link not shown).
