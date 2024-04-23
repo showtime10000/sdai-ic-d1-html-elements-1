@@ -6,17 +6,19 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 ## Acceptance Criteria 📋
 1. **File Navigation:** Navigate to index.html.
 2. **Boilerplate Generation:** Use shortcuts to generate HTML boilerplate.
-3. **H1 Tag Insertion:** Insert an H1 tag with ‘Hello world!’ in HTML body.
-4. **Paragraph Tag Insertion:** Insert a paragraph tag with ‘lorem ipsum’ under H1 tag.
+3. **Giving the document a title:** Use the given title for the document.
+4. **Header Tags Insertion:** Insert appropriate header tags based on their function.
+5. **Paragraph Tag Insertion:** Insert a paragraph tag with the given copy.
 
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
 1. [ ] Navigate to the `index.html` file. 
-2. [ ] In line 1, type an exclamation point and wait. What do you see?
-3. [ ] Hit enter or tab to create the boilerplate codebase for HTML pages. 
-4. [ ] Inside the body tag, put an H1 tag with 'Hello world!' in it. 
-5. [ ] Under that, put a paragraph tag under that and type 'lorem ipsum'. 
+2. [ ] In line 1, type an exclamation point, wait to see the prompt, then hit enter.
+3. [ ] When you have your boilerplate code, in the `head` element, locate the `title` element and enter 'Fibonacci Review'.
+4. [ ] Inside the body tag, put main header with 'You Can Count On Fibonacci' in it. Which number header tag should you use?
+5. [ ] Under your main header, copy and paste the subheader with this copy 'Fibonacci’s Food Truck: Where Flavor and Sequence Unite!'. Again, which humber header tag is appropriate?
+6. [ ] Under that, put a paragraph tag under that and copy and paste 'At Fibonacci’s Food Truck, every bite is a delightful journey through a sequence of flavors that leaves you wanting more. Just like the Fibonacci sequence, each dish builds upon the last, creating a symphony of taste that is both unique and familiar. From the Fibonacci Fries to the Golden Ratio Grilled Cheese, every item on the menu is a testament to the beauty of blending mathematics with gastronomy. Fibonacci’s Food Truck truly delivers on its promise - a culinary experience you can count on!'. 
  
 🎊 **Fantastic work! You just finished your first ever HTML coding lab.** 🎊
 
