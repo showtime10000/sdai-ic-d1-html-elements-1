@@ -26,7 +26,7 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 5. [ ] Write another paragraph tag under the previous and copy and pastethis copy:
    `I'm ready to learn a lot!`
 
-🎊 **Fantastic work! You just finished your first ever HTML coding lab.** 🎊
+🎊 **Fantastic work! You just finished your first ever HTML coding demo.** 🎊
 
 ---
 
