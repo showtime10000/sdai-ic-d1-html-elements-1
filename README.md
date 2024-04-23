@@ -8,9 +8,8 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 ## Acceptance Criteria 📋
 1. **File Navigation:** Navigate to index.html.
 2. **Boilerplate Generation:** Use shortcuts to generate HTML boilerplate.
-3. **Giving the document a title:** Use the given title for the document.
-4. **Header Tags Insertion:** Insert appropriate header tags based on their function.
-5. **Paragraph Tag Insertion:** Insert a paragraph tag with the given copy.
+3. **Header Tag Insertion:** Insert appropriate header tag based on its function.
+4. **Paragraph Tags Insertion:** Insert a paragraph tags with the given copy.
 
 ---
 
@@ -19,19 +18,13 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 
 1. [ ] Navigate to the `index.html` file. 
 2. [ ] In line 1, type an exclamation point, wait to see the prompt, then hit `enter`.
-3. [ ] When you have your boilerplate code, in the `head` element, locate the `title` element and enter `Fibonacci Review`.
-4. [ ] Inside the body tag, put the appropriate header tag for a main header with the copy: 
-   `You Can Count On Fibonacci`
-5. [ ] Under your main header, copy and paste the subheader using the appropriate header tag with this copy: 
-   `Fibonacci’s Food Truck: Where Flavor and Sequence Unite!` 
-6. [ ] Under that, put a paragraph tag under that and copy and paste:
-    `At Fibonacci’s Food Truck, every bite is a delightful journey through a sequence of flavors that leaves you wanting more. Just like the Fibonacci sequence, each dish builds upon the last, creating a symphony of taste that is both unique and familiar. From the Fibonacci Fries to the Golden Ratio Grilled Cheese, every item on the menu is a testament to the beauty of blending mathematics with gastronomy. Fibonacci’s Food Truck truly delivers on its promise - a culinary experience you can count on!` 
-7. [ ] Make another subheader with this copy choosing the correct header tag and use this copy:
-    `The Golden Spiral: A Journey into the Fibonacci Foodtruck`
-8. [ ] The first paragraph in the section contains the copy:
-   `The Fibonacci Foodtruck is not just a name, but a symbol of the harmonious blend of mathematics and culinary art. The name ‘Fibonacci’ was inspired by the famous Italian mathematician, Leonardo of Pisa, also known as Fibonacci. He introduced the Fibonacci sequence to the Western world in his 1202 book “Liber Abaci”. This sequence, where each number is the sum of the two preceding ones, has found applications in various fields, including art, architecture, and nature.`
+3. [ ] Inside the body tag, put the appropriate header tag for a main header with the copy: 
+   `Hello World!`
+4. [ ] Under that, put a paragraph tag under that and copy and paste:
+    `World, this is my first time coding!`
+5. [ ] Write another paragraph tag under the previous and copy and pastethis copy:
+   `I'm ready to learn a lot!`
 
- 
 🎊 **Fantastic work! You just finished your first ever HTML coding lab.** 🎊
 
 ---
