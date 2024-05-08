@@ -6,7 +6,7 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 
 ---
 
-## Acceptance Criteria 📋
+## Developer Objectives 📋
 1. **File Navigation:** Navigate to index.html.
 2. **Boilerplate Generation:** Use shortcuts to generate HTML boilerplate.
 3. **Header Tag Insertion:** Insert appropriate header tag based on its function.
