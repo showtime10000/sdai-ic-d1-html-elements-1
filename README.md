@@ -17,15 +17,19 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 ## Setup Instructions for Codespaces 🛠️
 #### Forking the Repository
 1. Click the Fork button at the top-right of the repository page to create a copy under your GitHub account.
-Open Codespaces:
+!["final rendering for demo"](assets/images/sdai-repo-fork-ex.png)
+#### Open Codespaces:
 2. Wait for the Code button to appear on your forked repository page.
-3. Click the Code button and select Open with Codespaces.
+!["final rendering for demo"](assets/images/sdai-code-button-example.png)
+1. Click the Code button and select Open with Codespaces.
+!["final rendering for demo"](assets/images/sdai-repo-codespace-example.png)
 #### Starting the Development Server (Port)
-4.  In the terminal, type the following command to start the server: `npx serve .`
-5. When prompted, type y to proceed.
+1.  In the terminal, type the following command to start the server: `npx serve .`
+!["final rendering for demo"](assets/images/)
+1. When prompted, type y to proceed.
 #### Open the Webpage:
-6. Navigate to the Ports section where the terminal is.
-7. Click on the globe icon to open the webpage and render your code.
+1. Navigate to the Ports section where the terminal is.
+2. Click on the globe icon to open the webpage and render your code.
 
 ---
 
