@@ -21,17 +21,17 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 #### Open Codespaces:
 2. Wait for the Code button to appear on your forked repository page.
 !["github code button"](assets/images/sdai-code-button-example.png)
-1. Click the Code button and select Open with Codespaces.
+3. Click the Code button and select Open with Codespaces.
 !["codespace button example"](assets/images/sdai-repo-codespace-example.png)
 #### Starting the Development Server (Port)
-1.  In the terminal, type the following command to start the server: `npx serve .`
+4.  In the terminal, type the following command to start the server: `npx serve .`
 !["terminal example for npx"](assets/images/sdai-csp-terminal-exple.jpg)
-1. When prompted, type y and press return / enter.
+5. When prompted, type y and press return / enter.
 !["terminal example for npx"](assets/images/sdai-csp-terminal-exple_2.jpg)
 #### Open the Webpage:
-1. Navigate to the Ports section where the terminal is.
+6. Navigate to the Ports section where the terminal is.
 !["VS code port tab"](assets/images/sdai-port-1-ex.png)
-1. Click on the globe icon to open the webpage and render your code.
+7. Click on the globe icon to open the webpage and render your code.
    !["how to open port"](assets/images/sdai-port-example.png)
 
 ---
@@ -51,6 +51,15 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 🎊 **Fantastic work! You just finished your first ever HTML coding demo.** 🎊
 
 ---
+
+## Maintaining Your Codespaces ⚙️
+You can only have 2 active Codespaces at a time in GitHub. Here are steps to show how you maintain them. 
+
+#### Locating your active codespaces in GitHub
+1. Locate the hamburger menu at the top left of the GitHub website and click it. 
+!["Hamburger button"](assets/images/sdai-repo-hamburger-example.png)
+2. Then click 'Codespaces' from options. 
+!["codespace option"](assets/images/sdai-repo-csp-example.png)
 
 ## ATTENTION 
 
