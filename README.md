@@ -59,6 +59,7 @@ You can only have 2 active Codespaces at a time in GitHub. Here are steps to sho
 1. Locate the hamburger menu at the top left of the GitHub website and click it. 
 !["Hamburger button"](assets/images/sdai-repo-hamburger-example.png)
 2. Then click 'Codespaces' from options.
+
 !["codespace option"](assets/images/sdai-repo-csp-example.png)
 3. Using the three dot menu, you can manage, close, delete, etc. your codespaces there. 
 🛑 **Make sure to not use up your cores so keep track of them.** 🛑
