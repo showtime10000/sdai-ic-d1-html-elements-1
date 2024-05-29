@@ -32,7 +32,7 @@ This lab introduces you to the fundamental building blocks of HTML webpages. You
 6. Navigate to the Ports section where the terminal is.
 !["VS code port tab"](assets/images/sdai-port-1-ex.png)
 7. Click on the globe icon to open the webpage and render your code.
-   !["how to open port"](assets/images/sdai-port-example.png)
+!["how to open port"](assets/images/sdai-port-example.png)
 
 ---
 
@@ -58,7 +58,7 @@ You can only have 2 active Codespaces at a time in GitHub. Here are steps to sho
 #### Locating your active codespaces in GitHub
 1. Locate the hamburger menu at the top left of the GitHub website and click it. 
 !["Hamburger button"](assets/images/sdai-repo-hamburger-example.png)
-2. Then click 'Codespaces' from options. 
+2. Then click 'Codespaces' from options.
 !["codespace option"](assets/images/sdai-repo-csp-example.png)
 3. Using the three dot menu, you can manage, close, delete, etc. your codespaces there. 
 🛑 **Make sure to not use up your cores so keep track of them.** 🛑
